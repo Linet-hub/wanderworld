@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931982474652",
+    "project_id": "wander-world-d79ea",
+    "storage_bucket": "wander-world-d79ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931982474652:android:066b908b18e220f937dc59",
+        "android_client_info": {
+          "package_name": "com.example.wanderworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCWUpADhwVxuEufoMlFnq8b-P5hm8g44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
